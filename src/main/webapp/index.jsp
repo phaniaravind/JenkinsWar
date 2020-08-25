@@ -83,7 +83,7 @@
 	<form action="/action_page.php"> 
 		<div class="imgcontainer"> 
 			<img src= 
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png"
+"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download4.png"
 				alt="Avatar" class="avatar"> 
 		</div> 
 
