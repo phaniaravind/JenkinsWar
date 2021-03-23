@@ -10,8 +10,9 @@ pipeline {
                 git credentialsId: 'git_credentials', url:'https://github.com/phaniaravind/JenkinsWar.git/'
             }
         }
-        stage('CBuilding') {
+        stage('Building') {
             steps {
                 sh 'mvn clean package'
             }
         }
+   }
